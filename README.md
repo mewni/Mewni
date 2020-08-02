@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### I'm a Computer Security Undergraduate
 
-<img src="https://github.com/Mewni/Mewni/blob/master/Images/image_processing20200119-22208-1tbdbxc.gif" align="left" width="400" height="300">
-### Find me all around the Webworld🌏 : 
+## Find me all around the Webworld🌏 : <img src="https://github.com/Mewni/Mewni/blob/master/Images/image_processing20200119-22208-1tbdbxc.gif" align="left" width="400" height="300">
+
 * Linkedin:
 * Twitter:
 * Instagram :
