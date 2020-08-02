@@ -11,7 +11,7 @@
 
 ## Tools,Languages,Frameworks 👇
 [![](#)](#)
-[![](https://img.shields.io/badge/OS-Pop!_%20Os-33aadd?style=flat-square&logo=pop-os&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=ffffff)](#)
