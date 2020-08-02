@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mewni 👋🏼
 #### I'm a Computer Security Undergraduate and a passionate learner.
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/alexandru-acea-Zg9R__O-8fM-unsplash.jpg" align="left" width="400" height="300">
@@ -9,7 +9,7 @@
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
-## Platforms,Tools,Languages,Frameworks 👇
+## Platforms,Tools,Languages,Frameworks 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Kali%20Linux-276DC3?style=flat-square&logoColor=ffffff)](#)
