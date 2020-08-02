@@ -10,8 +10,11 @@
 C|C#|HTML|CSS|JavaScript|Bootstrap|
 
 ### Tools,Languages,Frameworks
+[![](#)](#)
+[![](https://img.shields.io/badge/OS-Pop%20Os-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+
 
 
 
