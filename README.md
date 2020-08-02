@@ -3,8 +3,8 @@
 
 ## Find me all around the Webworld🌏 : <img src="https://github.com/Mewni/Mewni/blob/master/Images/image_processing20200119-22208-1tbdbxc.gif" align="left" width="400" height="300">
 
-* Linkedin:
-* Twitter:
+* Linkedin: <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/">Mewni Alahakoon</a>
+* Twitter: <a href="https://twitter.com/MAlahakoon1">@malahakoon1</a>
 * Instagram :
 
 
