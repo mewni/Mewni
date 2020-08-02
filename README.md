@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm a Computer Security Undergraduate
 
-## 🌏  <img src="https://github.com/Mewni/Mewni/blob/master/Images/alexandru-acea-Zg9R__O-8fM-unsplash.jpg" align="left" width="400" height="300">
+## Find me on Social Media 😊<img src="https://github.com/Mewni/Mewni/blob/master/Images/alexandru-acea-Zg9R__O-8fM-unsplash.jpg" align="left" width="400" height="300">
 
 <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
