@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a Computer Security Undergraduate
 
-![Cat](/Images/fb886edb716092d06b41bf72ec586a57.jpg)
+![Cat](https://github.com/Mewni/Mewni/blob/master/Images/fb886edb716092d06b41bf72ec586a57.jpg)
 
 
 <!--
