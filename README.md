@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a Computer Security Undergraduate
 
-## Find me all around the Webworld🌏 : <img src="https://github.com/Mewni/Mewni/blob/master/Images/image_processing20200119-22208-1tbdbxc.gif" align="left" width="400" height="300">
+## Find me all around the Webworld🌏 : <img src="https://github.com/Mewni/Mewni/blob/master/Images/christopher-gower-m_HRfLhgABo-unsplash.jpg" align="left" width="630" height="970">
 
 * Linkedin: <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/">Mewni Alahakoon</a>
 * Twitter: <a href="https://twitter.com/MAlahakoon1">@malahakoon1</a>
