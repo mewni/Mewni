@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm a Computer Security Undergraduate
+#### I'm a Computer Security Undergraduate and a passionate learner
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/alexandru-acea-Zg9R__O-8fM-unsplash.jpg" align="left" width="400" height="300">
 
