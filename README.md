@@ -1,9 +1,9 @@
 ## Hi there, I'm Mewni 👋🏼
 I'm a Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth and a passionate learner.
 
-Quote for developers:
-
+>
 >If at first you don’t succeed; call it version 1.0
+>
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/alexandru-acea-Zg9R__O-8fM-unsplash.jpg" align="left" width="400" height="300">
 
