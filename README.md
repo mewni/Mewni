@@ -5,7 +5,7 @@
 
 * Linkedin: <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/">Mewni Alahakoon</a>
 * Twitter: <a href="https://twitter.com/MAlahakoon1">@malahakoon1</a>
-* Instagram :
+* Instagram : <a href="https://www.instagram.com/m_alahakoon/?hl=en">@m_alahakoon</a>
 
 
 
