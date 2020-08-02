@@ -1,6 +1,7 @@
 ### Hi there 👋
+#### I'm a Computer Security Undergraduate
 
-![Cat](/Images/abf66f3cfc0e697569ac891c0e92f496.gif)
+![Cat](/Images/fb886edb716092d06b41bf72ec586a57.jpg)
 
 
 <!--
