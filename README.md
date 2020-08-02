@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cat](https://www.pinterest.com/pin/302233824976734070/)
+![Cat](/Images/abf66f3cfc0e697569ac891c0e92f496.gif)
 
 
 <!--
