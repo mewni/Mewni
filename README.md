@@ -1,6 +1,6 @@
 # ආයුබෝවන් 🙏🏽🌏🌎🌍
 ## Hi there, I'm Mewni 👋🏼
-I'm a 1st year Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth 🎓 and a passionate lifelong learner.
+1st year Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth 🎓 | A passionate lifelong learner | An Open Source Lover ❤  |
 
 > *If at first you don’t succeed; call it version 1.0*
 
