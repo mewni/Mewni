@@ -39,11 +39,7 @@ I'm a Computer Security Undergraduate of NSBM Green University affiliated with U
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
 <p align="left">                
-<img src="https://github-readme-stats.vercel.app/api?username=Mewni&show_icons=true&theme=synthwave&count_private=trues&how_icons=true&hide=stars,contribs">
-</p>
-
-<p align="center">                
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewni&show_icons=true&theme=synthwave&count_private=trues&how_icons=true>
+<img src="https://github-readme-stats.vercel.app/api?username=Mewni&show_icons=true&theme=radical&count_private=trues&how_icons=true&hide=stars,contribs">
 </p>
 
 <a href="https://github.com/Mewni/github-readme-stats">
