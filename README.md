@@ -38,6 +38,10 @@ I'm a Computer Security Undergraduate of NSBM Green University affiliated with U
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
+<p align="left">                
+<img src="https://github-readme-stats.vercel.app/api?username=Mewni&show_icons=true&theme=synthwave">
+</p>
+
 
 <!--
 **Mewni/Mewni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
