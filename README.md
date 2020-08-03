@@ -39,7 +39,7 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 <br>
 <br>
-<br>
+
 ### Some of My Favourite Open Source Projects 💖
 [![](https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=tor&logoColor=white)](#)
 [![](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
