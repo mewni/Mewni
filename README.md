@@ -23,8 +23,10 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/IDE-CLion-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/IDE-Pycharm-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)](#)
-[![](#)](#)
-[![](#)](#)
+
+## Some of my favourite open source projects
+[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
+[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 
 [![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 [![](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)](#)
