@@ -4,8 +4,6 @@
 
 I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth 🎓 | A Passionate Lifelong Learner | An Open Source Lover ❤  |
 
-> *If at first you don’t succeed; call it version 1.0*
-
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
 ## Find me on Social Media 😊
