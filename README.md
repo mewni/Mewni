@@ -1,18 +1,18 @@
-## ආයුබෝවන් 🙏🏽🌏🌎🌍
-### Hi there, I'm Mewni 👋🏼
+# ආයුබෝවන් 🙏🏽🌏🌎🌍
+## Hi there, I'm Mewni 👋🏼
 I'm a Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth and a passionate learner.
 
 > *If at first you don’t succeed; call it version 1.0*
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
-### Find me on Social Media 😊
+## Find me on Social Media 😊
 
 <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
-### Platforms,Tools,Languages,Frameworks 👇🏼
+## Platforms,Tools,Languages,Frameworks 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Kali%20Linux-276DC3?style=flat-square&logoColor=ffffff)](#)
