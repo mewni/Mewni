@@ -24,10 +24,6 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 [![](https://img.shields.io/badge/IDE-CLion-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/IDE-Pycharm-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)](#)
 
-## Some of my favourite open source projects
-[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
-[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
-
 [![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 [![](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
@@ -39,6 +35,10 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 [![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
+
+## Some of my favourite open source projects
+[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
+[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
