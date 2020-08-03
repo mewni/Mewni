@@ -1,6 +1,6 @@
 # ආයුබෝවන් 🙏🏽🌏🌎🌍
 ## Hi there, I'm Mewni 👋🏼
-I'm a Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth and a passionate learner.
+I'm a Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth and a passionate lifelong learner.
 
 > *If at first you don’t succeed; call it version 1.0*
 
@@ -36,13 +36,6 @@ I'm a Computer Security Undergraduate of NSBM Green University affiliated with U
 [![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
-
-
-
-
-
-
-
 
 
 <!--
