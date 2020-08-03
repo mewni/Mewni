@@ -38,9 +38,13 @@ I'm a Computer Security Undergraduate of NSBM Green University affiliated with U
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
-<p align="left">                
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mewni&show_icons=true&include_all_commits=true&theme=radical" alt="Mewni's github stats" />
+</a>
+
+<!--<p align="left">                
 <img src="https://github-readme-stats.vercel.app/api?username=Mewni&show_icons=true&theme=radical&count_private=trues&how_icons=true&hide=stars,contribs">
-</p>
+</p>-->
 
 <a href="https://github.com/Mewni/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
