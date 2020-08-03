@@ -41,6 +41,9 @@ I'm a Computer Security Undergraduate of NSBM Green University affiliated with U
 <p align="left">                
 <img src="https://github-readme-stats.vercel.app/api?username=Mewni&show_icons=true&theme=synthwave&count_private=trues&how_icons=true&hide=stars,contribs">
 </p>
+<p align="right">                
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewni&show_icons=true&theme=synthwave&count_private=trues&how_icons=true>
+</p>
 
 
 <!--
