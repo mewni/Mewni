@@ -1,4 +1,4 @@
-## ආයුබෝවන් 🙏🏽🗺 Hi there, I'm Mewni 👋🏼
+## ආයුබෝවන් 🙏🏽🌏🌎🌍 Hi there, I'm Mewni 👋🏼💻⌨🖱🖥
 
 **🚀 Thanks for visiting my GitHub profile, it's nice to meet you here! 😊**
 
