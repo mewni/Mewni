@@ -14,7 +14,7 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
-## Platforms,Tools,Languages,Frameworks 👇🏼
+### Platforms,Tools,Languages,Frameworks 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Kali%20Linux-276DC3?style=flat-square&logoColor=ffffff)](#)
@@ -38,7 +38,7 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
-## Some of My Favourite Open Source Projects 💖
+### Some of My Favourite Open Source Projects 💖
 [![](https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=tor&logoColor=white)](#)
 [![](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 [![](http://img.shields.io/badge/-Mozilla%20Firefox-000000?style=flat-square&logo=mozilla&logoColor=white)](#)
