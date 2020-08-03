@@ -3,7 +3,7 @@ I'm a Computer Security Undergraduate of NSBM Green University affiliated with U
 
 > *If at first you don’t succeed; call it version 1.0*
 
-<img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" align="left" width="400" height="300">
+<img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
 ## Find me on Social Media 😊
 
