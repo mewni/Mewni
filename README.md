@@ -36,11 +36,9 @@ I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliat
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
-< h2 align="left">
 ## Some of my favourite open source projects
-[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
-[![](https://img.shields.io/badge/-C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
-</h2>  
+[![](https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=tor&logoColor=white)](#)
+[![](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
