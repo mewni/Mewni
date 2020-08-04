@@ -1,5 +1,7 @@
 # ආයුබෝවන් 🙏🏽🌏 Hello World!, I'm Mewni 👋🏼
 
+| A 1st year Computer Security Undergraduate 🎓 | Passionate Lifelong Learner | Open Source Lover ❤ |
+
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
 ## Find me on Social Media 😊
