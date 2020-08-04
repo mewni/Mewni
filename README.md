@@ -1,18 +1,18 @@
 # ආයුබෝවන් 🙏🏽🌏 Hello World!, I'm Mewni 👋🏼
 
-**🚀 Thanks for visiting my GitHub profile, it's nice to meet you here! 😊**
+**🚀 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔 𝓂𝓎 𝒢𝒾𝓉𝐻𝓊𝒷 𝓅𝓇𝑜𝒻𝒾𝓁𝑒, 𝒾𝓉'𝓈 𝓃𝒾𝒸𝑒 𝓉𝑜 𝓂𝑒𝑒𝓉 𝓎𝑜𝓊 𝒽𝑒𝓇𝑒! 😊**
 
 𝐼'𝓂 𝒶 1𝓈𝓉 𝒴𝑒𝒶𝓇 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒮𝑒𝒸𝓊𝓇𝒾𝓉𝓎 𝒰𝓃𝒹𝑒𝓇𝑔𝓇𝒶𝒹𝓊𝒶𝓉𝑒 𝑜𝒻 𝒩𝒮𝐵𝑀 𝒢𝓇𝑒𝑒𝓃 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎 𝒶𝒻𝒻𝒾𝓁𝒾𝒶𝓉𝑒𝒹 𝓌𝒾𝓉𝒽 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎 𝑜𝒻 𝒫𝓁𝓎𝓂𝑜𝓊𝓉𝒽 🎓 | 𝒜 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝐿𝒾𝒻𝑒𝓁𝑜𝓃𝑔 𝐿𝑒𝒶𝓇𝓃𝑒𝓇 | 𝒜𝓃 𝒪𝓅𝑒𝓃 𝒮𝑜𝓊𝓇𝒸𝑒 𝐿𝑜𝓋𝑒𝓇 ❤ |
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
-## Find me on Social Media 😊
+## 𝐹𝒾𝓃𝒹 𝓂𝑒 𝑜𝓃 𝒮𝑜𝒸𝒾𝒶𝓁 𝑀𝑒𝒹𝒾𝒶 😊
 
 <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
-## Platforms,Tools,Languages,Frameworks 👇🏼
+## 𝒫𝓁𝒶𝓉𝒻𝑜𝓇𝓂𝓈,𝒯𝑜𝑜𝓁𝓈,𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈,𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-Kali%20Linux-276DC3?style=flat-square&logoColor=ffffff)](#)
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-## Some of My Favourite Open Source Projects 💖
+## 𝒮𝑜𝓂𝑒 𝑜𝒻 𝑀𝓎 𝐹𝒶𝓋𝑜𝓊𝓇𝒾𝓉𝑒 𝒪𝓅𝑒𝓃 𝒮𝑜𝓊𝓇𝒸𝑒 𝒫𝓇𝑜𝒿𝑒𝒸𝓉𝓈 💖
 [![](https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=tor&logoColor=white)](#)
 [![](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 [![](http://img.shields.io/badge/-Mozilla%20Firefox-000000?style=flat-square&logo=mozilla&logoColor=white)](#)
