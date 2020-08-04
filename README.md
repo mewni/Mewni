@@ -2,7 +2,7 @@
 
 **🚀 Thanks for visiting my GitHub profile, it's nice to meet you here! 😊**
 
-Ｉ'ｍ ａ １ｓｔ Ｙｅａｒ Ｃｏｍｐｕｔｅｒ Ｓｅｃｕｒｉｔｙ Ｕｎｄｅｒｇｒａｄｕａｔｅ ｏｆ ＮＳＢＭ Ｇｒｅｅｎ Ｕｎｉｖｅｒｓｉｔｙ ａｆｆｉｌｉａｔｅｄ ｗｉｔｈ Ｕｎｉｖｅｒｓｉｔｙ ｏｆ Ｐｌｙｍｏｕｔｈ 🎓 | Ａ Ｐａｓｓｉｏｎａｔｅ Ｌｉｆｅｌｏｎｇ Ｌｅａｒｎｅｒ | Ａｎ Ｏｐｅｎ Ｓｏｕｒｃｅ Ｌｏｖｅｒ ❤ |
+𝐼'𝓂 𝒶 1𝓈𝓉 𝒴𝑒𝒶𝓇 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒮𝑒𝒸𝓊𝓇𝒾𝓉𝓎 𝒰𝓃𝒹𝑒𝓇𝑔𝓇𝒶𝒹𝓊𝒶𝓉𝑒 𝑜𝒻 𝒩𝒮𝐵𝑀 𝒢𝓇𝑒𝑒𝓃 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎 𝒶𝒻𝒻𝒾𝓁𝒾𝒶𝓉𝑒𝒹 𝓌𝒾𝓉𝒽 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎 𝑜𝒻 𝒫𝓁𝓎𝓂𝑜𝓊𝓉𝒽 🎓 | 𝒜 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝐿𝒾𝒻𝑒𝓁𝑜𝓃𝑔 𝐿𝑒𝒶𝓇𝓃𝑒𝓇 | 𝒜𝓃 𝒪𝓅𝑒𝓃 𝒮𝑜𝓊𝓇𝒸𝑒 𝐿𝑜𝓋𝑒𝓇 ❤ |
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
