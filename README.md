@@ -1,9 +1,8 @@
 # ආයුබෝවන් 🙏🏽🌏 Hello World!, I'm Mewni 👋🏼
 
 **🚀 Thanks for visiting my GitHub profile, it's nice to meet you here! 😊**
-Ａ Ｓｅｌｆ Ｍｏｔｉｖａｔｅｄ Ｈｕｍａｎ Ｂｅｉｎｇ
 
-I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth 🎓 | A Passionate Lifelong Learner | An Open Source Lover ❤  |
+Ｉ'ｍ ａ １ｓｔ Ｙｅａｒ Ｃｏｍｐｕｔｅｒ Ｓｅｃｕｒｉｔｙ Ｕｎｄｅｒｇｒａｄｕａｔｅ ｏｆ ＮＳＢＭ Ｇｒｅｅｎ Ｕｎｉｖｅｒｓｉｔｙ ａｆｆｉｌｉａｔｅｄ ｗｉｔｈ Ｕｎｉｖｅｒｓｉｔｙ ｏｆ Ｐｌｙｍｏｕｔｈ 🎓 | Ａ Ｐａｓｓｉｏｎａｔｅ Ｌｉｆｅｌｏｎｇ Ｌｅａｒｎｅｒ | Ａｎ Ｏｐｅｎ Ｓｏｕｒｃｅ Ｌｏｖｅｒ ❤ |
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
 
