@@ -1,6 +1,7 @@
 # ආයුබෝවන් 🙏🏽🌏 Hello World!, I'm Mewni 👋🏼
 
 **🚀 Thanks for visiting my GitHub profile, it's nice to meet you here! 😊**
+Ａ Ｓｅｌｆ Ｍｏｔｉｖａｔｅｄ Ｈｕｍａｎ Ｂｅｉｎｇ
 
 I'm a 1st Year Computer Security Undergraduate of NSBM Green University affiliated with University of Plymouth 🎓 | A Passionate Lifelong Learner | An Open Source Lover ❤  |
 
