@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Windows-7-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/Windows-XP-003399?style=flat-square&logo=windows&logoColor=ffffff)](#)
-[![](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 [![](https://img.shields.io/badge/IDE-CLion-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)](#)
 [![](https://img.shields.io/badge/IDE-Pycharm-000000?style=flat-square&logo=jetbrains&logoColor=ffffff)](#)
