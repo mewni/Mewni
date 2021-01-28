@@ -1,6 +1,6 @@
 # ආයුබෝවන් 🙏🏽🌏 Hello World!, I'm Mewni 👋🏼
 
-| A 2nd year Computer Security Undergraduate 🎓 | Passionate Lifelong Learner | Open Source Lover ❤ |
+| A 2nd year Computer Security Undergraduate 🎓 | Passionate Lifelong Learner | Open Source Lover ❤ | Blogger ✍ |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mewni&color=brightgreen" alt="Mewni" /> </p>
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
