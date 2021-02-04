@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.mewni.vercel.app/api/spotify-playing" alt="Mewni's playlist" width="350" />](https://open.spotify.com/user/hnoxygevuhzia3cpeu3zjbdzi)
+[<img src="https://novatorem.vercel.app/api/spotify-playing" alt="Mewni's playlist" width="350" />](https://open.spotify.com/user/hnoxygevuhzia3cpeu3zjbdzi)
 
 ## Find me on Social Media 😊
 
