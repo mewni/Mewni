@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mewni&color=brightgreen" alt="Mewni" /> </p>
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/0_K2WLMTExLyida7OR.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Mewni's Playlist" width="350" />]
-(https://open.spotify.com/user/hnoxygevuhzia3cpeu3zjbdzi)
+
 ## Find me on Social Media 😊
 
 <a href="https://www.linkedin.com/in/mewni-alahakoon-0a7a48192/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
