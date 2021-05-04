@@ -11,6 +11,9 @@
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
+## Blog Posts
+[Avogado6 (アボガド6)— The Mysterious Japanese Illustrator](https://medium.com/@alahakoonmewni/avogado6-%E3%82%A2%E3%83%9C%E3%82%AC%E3%83%896-the-mysterious-japanese-illustrator-e1be503b7f43)
+
 ## Platforms, Tools, Languages, Frameworks 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
