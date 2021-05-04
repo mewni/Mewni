@@ -49,7 +49,7 @@
 
 ## Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&redirect=true)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
