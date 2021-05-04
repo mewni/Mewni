@@ -11,6 +11,13 @@
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
+## Blog Posts
+[Avogado6 (アボガド6)— The Mysterious Japanese Illustrator](https://medium.com/@alahakoonmewni/avogado6-%E3%82%A2%E3%83%9C%E3%82%AC%E3%83%896-the-mysterious-japanese-illustrator-e1be503b7f43)
+
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&redirect=true)
+
 ## Platforms, Tools, Languages, Frameworks 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
@@ -44,12 +51,7 @@
 [![](http://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 
-## Blog Posts
-[Avogado6 (アボガド6)— The Mysterious Japanese Illustrator](https://medium.com/@alahakoonmewni/avogado6-%E3%82%A2%E3%83%9C%E3%82%AC%E3%83%896-the-mysterious-japanese-illustrator-e1be503b7f43)
 
-## Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&redirect=true)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
