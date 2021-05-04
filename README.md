@@ -11,7 +11,7 @@
 <a href="https://twitter.com/MAlahakoon1"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter"></a>
 <a href="https://www.instagram.com/m_alahakoon/?hl=en"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram"></a>
 
-## Spotify
+### Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&redirect=true)
 
