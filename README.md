@@ -15,9 +15,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=hnoxygevuhzia3cpeu3zjbdzi&redirect=true)
 
-## Blog Posts
-[Avogado6 (アボガド6)— The Mysterious Japanese Illustrator](https://medium.com/@alahakoonmewni/avogado6-%E3%82%A2%E3%83%9C%E3%82%AC%E3%83%896-the-mysterious-japanese-illustrator-e1be503b7f43)
-
 ## Platforms, Tools, Languages, Frameworks 👇🏼
 
 [![](https://img.shields.io/badge/OS-Pop!_%20OS-33aadd?style=flat-square&logo=linux&logoColor=ffffff)]()
