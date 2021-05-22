@@ -1,4 +1,4 @@
-# ආයුබෝවන් 🙏🏽🌏 Hello World!, I'm Mewni 👋🏼
+# ආයුබෝවන් 🙏🏽🌏 hello world!, i'm mewni 👋🏼
 
 | A 2nd year Computer Security Undergraduate 🎓 | Passionate Lifelong Learner | Open Source Lover ❤ | Blogger ✍ | Anime Lover |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mewni&color=brightgreen" alt="Mewni" /> </p>
