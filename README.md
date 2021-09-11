@@ -1,6 +1,5 @@
 # ආයුබෝවන් 🙏🏽🌏 hello world!, i'm mewni 👋🏼
 
-| A 2nd year Computer Security Undergraduate 🎓 | Passionate Lifelong Learner | Open Source Lover ❤ | Blogger ✍ | Anime Lover |
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mewni&color=brightgreen" alt="Mewni" /> </p>
 
 <img src="https://github.com/Mewni/Mewni/blob/master/Images/original.gif" alt="Animation by Daniela Serpa" title="Animation by Daniela Serpa" align="left" width="400" height="300">
