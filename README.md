@@ -120,7 +120,7 @@ mewni@colombo:~$ ./phd --status
 - **Partial Message Monitoring of LLM Trading Agents** · 3-day Apart Research sprint report, 2026 · [`code ↗`](https://github.com/mewni/partial-monitoring-collusion)
 
 <div align="left">
-<a href="https://github.com/mewni/partial-monitoring-collusion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mewni&repo=partial-monitoring-collusion&hide_border=true&title_color=7F5AF0&icon_color=2CB1BC&text_color=444&bg_color=00000000" width="48%"/></a>
+<a href="https://github.com/mewni/partial-monitoring-collusion"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=mewni&repo=partial-monitoring-collusion&hide_border=true&title_color=7F5AF0&icon_color=2CB1BC&bg_color=00000000&text_color=C9D1D9"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=mewni&repo=partial-monitoring-collusion&hide_border=true&title_color=7F5AF0&icon_color=2CB1BC&bg_color=00000000&text_color=1F2328" width="48%"/></picture></a>
 </div>
 
 ### §4 &nbsp;Reading List
